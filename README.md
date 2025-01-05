@@ -197,6 +197,10 @@ Skip and uncheck any prompts Microsoft edge gives you when opening.
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e5c7aa4-97dd-4c8d-a09d-c9cafddda685"><br>
 
+<br>
+<br>
+<br>
+
 <ins>Testing IIS on Microsoft Edge</ins>:
 
 Browse to **127.0.0.1**. If you don't see the image displayed below then try uninstalling and reinstalling IIS
