@@ -1048,7 +1048,9 @@ Check the **Read** and **Read & execute** permissions. Uncheck **Full Control**,
 
 <h2 align="center">Final Thoughts</h2>
 
-This lab demonstrated the prerequisites and installation process of the osTicket helpdesk ticketing system, leveraging tools such as Microsoft Azure, IIS, and Remote Desktop to set up a virtual environment. By completing each step, from configuring the virtual machine to installing and enabling necessary components, we successfully deployed osTicket. With the installation complete, we can now focus on configuring osTicket to ensure it is tailored to our organization’s needs. This involves setting up roles, departments, teams, agents, and users, as well as defining Service Level Agreements (SLAs). These configurations are crucial for streamlining ticket management, ensuring efficient workflows, and enabling the system to properly route and track support requests.
+This lab demonstrated the prerequisites and installation process of the osTicket helpdesk ticketing system, leveraging tools such as Microsoft Azure, IIS, and Remote Desktop to set up a virtual environment. By completing each step, from configuring the virtual machine to installing and enabling necessary components, we successfully deployed osTicket.
+
+With the installation complete, we can now focus on configuring osTicket to ensure it is tailored to our organization’s needs. This involves setting up roles, departments, teams, agents, and users, as well as defining Service Level Agreements (SLAs). These configurations are crucial for streamlining ticket management, ensuring efficient workflows, and enabling the system to properly route and track support requests.
 
 To continue the osTicket tutorial series, proceed to the next lab on [post-installation and configuration for osTicket](https://github.com/vincentchachere/Ticket-Lifecycle).
 
